@@ -29,3 +29,17 @@ htmlcov
 
 .DS_Store
 .idea
+
+# Ignore user config
+user-config.json
+userapiconfig.py
+usermysql.json
+
+
+mujson.json
+mudb.json
+usermudb.json
+commonmudb.json
+transfermudb.json
+*.log
+ssserver.log.*
